@@ -49,3 +49,27 @@
 2024-05-16 22:03:46,093 - INFO - Sent: b'[Ava Gonzalez, 22, Sao Paulo]' to ('localhost', 9999). Hit CTRL-c to stop.
 2024-05-16 22:03:49,095 - INFO - Sent: b'[Alexander Perez, 31, Moscow]' to ('localhost', 9999). Hit CTRL-c to stop.
 2024-05-16 22:03:52,096 - INFO - Streaming complete!
+2024-05-16 22:34:36,726 - INFO - Starting streaming process.
+2024-05-16 22:34:36,727 - INFO - [John Doe, 32, New York]
+2024-05-16 22:34:38,727 - INFO - [Jane Smith, 27, Chicago]
+2024-05-16 22:34:41,728 - INFO - [Bob Johnson, 45, London]
+2024-05-16 22:34:42,729 - INFO - [Samantha Lee, 21, Tokyo]
+2024-05-16 22:34:44,729 - INFO - [Michael Brown, 38, Sydney]
+2024-05-16 22:34:46,730 - INFO - [Emily Davis, 29, Paris]
+2024-05-16 22:34:48,731 - INFO - [David Wilson, 41, Toronto]
+2024-05-16 22:34:49,731 - INFO - [Sophia Rodriguez, 25, Madrid]
+2024-05-16 22:34:50,732 - INFO - [William Thompson, 52, Berlin]
+2024-05-16 22:34:51,733 - INFO - [Olivia Martinez, 19, Mexico City]
+2024-05-16 22:34:53,733 - INFO - [James Anderson, 36, Cape Town]
+2024-05-16 22:34:55,735 - INFO - [Isabella Garcia, 28, Buenos Aires]
+2024-05-16 22:34:58,735 - INFO - [Daniel Hernandez, 43, Santiago]
+2024-05-16 22:35:01,736 - INFO - [Ava Gonzalez, 22, Sao Paulo]
+2024-05-16 22:35:02,737 - INFO - [Alexander Perez, 31, Moscow]
+2024-05-16 22:35:04,738 - INFO - Streaming complete!
+2024-05-16 22:36:51,560 - INFO - Starting streaming process.
+2024-05-16 22:36:51,561 - INFO - [John Doe, 32, New York]
+2024-05-16 22:36:53,561 - INFO - [Jane Smith, 27, Chicago]
+2024-05-16 22:36:55,562 - INFO - [Bob Johnson, 45, London]
+2024-05-16 22:36:58,562 - INFO - [Samantha Lee, 21, Tokyo]
+2024-05-16 22:37:01,563 - INFO - [Michael Brown, 38, Sydney]
+2024-05-16 22:37:02,564 - INFO - [Emily Davis, 29, Paris]
