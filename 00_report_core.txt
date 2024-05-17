@@ -1,0 +1,25 @@
+
+======================================================================
+======================================================================
+ Welcome to NW Diagnostics!
+ At: 2024-05-16 at 09:24 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.11.5
+ Python Build Date and Compiler: main with Sep 11 2023 13:26:23
+ Python Implementation: CPython
+ Active pip environment: None
+ Path to Interpreter:         C:\Users\14029\anaconda3\python.exe
+ Path to virtual environment: C:\Users\14029\anaconda3
+ Current Working Directory:   C:\Users\14029\Streaming Data\streaming-02-multiple-processes\streaming-02-multiple-processes
+ Path to source directory:    c:\Users\14029\Streaming Data\streaming-02-multiple-processes\streaming-02-multiple-processes
+ Path to script file:         c:\Users\14029\Streaming Data\streaming-02-multiple-processes\streaming-02-multiple-processes\00_check_core.py
+ User's Home Directory:       C:\Users\14029
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Git available in PATH:       True 
+======================================================================
+======================================================================
+
