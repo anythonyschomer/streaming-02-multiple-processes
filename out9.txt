@@ -1,85 +1,15 @@
-2024-05-16 22:01:10,386 - INFO - Starting fake streaming process.
-2024-05-16 22:01:10,393 - INFO - Sent: b'[John Doe, 32, New York]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:13,394 - INFO - Sent: b'[Jane Smith, 27, Chicago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:16,395 - INFO - Sent: b'[Bob Johnson, 45, London]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:19,398 - INFO - Sent: b'[Samantha Lee, 21, Tokyo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:22,399 - INFO - Sent: b'[Michael Brown, 38, Sydney]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:25,401 - INFO - Sent: b'[Emily Davis, 29, Paris]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:28,412 - INFO - Sent: b'[David Wilson, 41, Toronto]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:31,413 - INFO - Sent: b'[Sophia Rodriguez, 25, Madrid]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:34,416 - INFO - Sent: b'[William Thompson, 52, Berlin]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:37,416 - INFO - Sent: b'[Olivia Martinez, 19, Mexico City]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:40,419 - INFO - Sent: b'[James Anderson, 36, Cape Town]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:43,419 - INFO - Sent: b'[Isabella Garcia, 28, Buenos Aires]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:46,420 - INFO - Sent: b'[Daniel Hernandez, 43, Santiago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:49,422 - INFO - Sent: b'[Ava Gonzalez, 22, Sao Paulo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:52,423 - INFO - Sent: b'[Alexander Perez, 31, Moscow]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:55,436 - INFO - Streaming complete!
-2024-05-16 22:01:55,688 - INFO - Starting fake streaming process.
-2024-05-16 22:01:55,693 - INFO - Sent: b'[John Doe, 32, New York]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:01:58,694 - INFO - Sent: b'[Jane Smith, 27, Chicago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:01,697 - INFO - Sent: b'[Bob Johnson, 45, London]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:04,698 - INFO - Sent: b'[Samantha Lee, 21, Tokyo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:07,699 - INFO - Sent: b'[Michael Brown, 38, Sydney]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:10,700 - INFO - Sent: b'[Emily Davis, 29, Paris]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:13,702 - INFO - Sent: b'[David Wilson, 41, Toronto]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:16,703 - INFO - Sent: b'[Sophia Rodriguez, 25, Madrid]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:19,704 - INFO - Sent: b'[William Thompson, 52, Berlin]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:22,705 - INFO - Sent: b'[Olivia Martinez, 19, Mexico City]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:25,707 - INFO - Sent: b'[James Anderson, 36, Cape Town]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:28,708 - INFO - Sent: b'[Isabella Garcia, 28, Buenos Aires]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:31,709 - INFO - Sent: b'[Daniel Hernandez, 43, Santiago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:34,711 - INFO - Sent: b'[Ava Gonzalez, 22, Sao Paulo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:37,713 - INFO - Sent: b'[Alexander Perez, 31, Moscow]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:02:40,714 - INFO - Streaming complete!
-2024-05-16 22:03:07,070 - INFO - Starting fake streaming process.
-2024-05-16 22:03:07,075 - INFO - Sent: b'[John Doe, 32, New York]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:10,076 - INFO - Sent: b'[Jane Smith, 27, Chicago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:13,077 - INFO - Sent: b'[Bob Johnson, 45, London]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:16,079 - INFO - Sent: b'[Samantha Lee, 21, Tokyo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:19,080 - INFO - Sent: b'[Michael Brown, 38, Sydney]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:22,082 - INFO - Sent: b'[Emily Davis, 29, Paris]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:25,082 - INFO - Sent: b'[David Wilson, 41, Toronto]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:28,083 - INFO - Sent: b'[Sophia Rodriguez, 25, Madrid]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:31,084 - INFO - Sent: b'[William Thompson, 52, Berlin]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:34,086 - INFO - Sent: b'[Olivia Martinez, 19, Mexico City]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:37,089 - INFO - Sent: b'[James Anderson, 36, Cape Town]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:40,090 - INFO - Sent: b'[Isabella Garcia, 28, Buenos Aires]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:43,092 - INFO - Sent: b'[Daniel Hernandez, 43, Santiago]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:46,093 - INFO - Sent: b'[Ava Gonzalez, 22, Sao Paulo]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:49,095 - INFO - Sent: b'[Alexander Perez, 31, Moscow]' to ('localhost', 9999). Hit CTRL-c to stop.
-2024-05-16 22:03:52,096 - INFO - Streaming complete!
-2024-05-16 22:34:36,726 - INFO - Starting streaming process.
-2024-05-16 22:34:36,727 - INFO - [John Doe, 32, New York]
-2024-05-16 22:34:38,727 - INFO - [Jane Smith, 27, Chicago]
-2024-05-16 22:34:41,728 - INFO - [Bob Johnson, 45, London]
-2024-05-16 22:34:42,729 - INFO - [Samantha Lee, 21, Tokyo]
-2024-05-16 22:34:44,729 - INFO - [Michael Brown, 38, Sydney]
-2024-05-16 22:34:46,730 - INFO - [Emily Davis, 29, Paris]
-2024-05-16 22:34:48,731 - INFO - [David Wilson, 41, Toronto]
-2024-05-16 22:34:49,731 - INFO - [Sophia Rodriguez, 25, Madrid]
-2024-05-16 22:34:50,732 - INFO - [William Thompson, 52, Berlin]
-2024-05-16 22:34:51,733 - INFO - [Olivia Martinez, 19, Mexico City]
-2024-05-16 22:34:53,733 - INFO - [James Anderson, 36, Cape Town]
-2024-05-16 22:34:55,735 - INFO - [Isabella Garcia, 28, Buenos Aires]
-2024-05-16 22:34:58,735 - INFO - [Daniel Hernandez, 43, Santiago]
-2024-05-16 22:35:01,736 - INFO - [Ava Gonzalez, 22, Sao Paulo]
-2024-05-16 22:35:02,737 - INFO - [Alexander Perez, 31, Moscow]
-2024-05-16 22:35:04,738 - INFO - Streaming complete!
-2024-05-16 22:36:51,560 - INFO - Starting streaming process.
-2024-05-16 22:36:51,561 - INFO - [John Doe, 32, New York]
-2024-05-16 22:36:53,561 - INFO - [Jane Smith, 27, Chicago]
-2024-05-16 22:36:55,562 - INFO - [Bob Johnson, 45, London]
-2024-05-16 22:36:58,562 - INFO - [Samantha Lee, 21, Tokyo]
-2024-05-16 22:37:01,563 - INFO - [Michael Brown, 38, Sydney]
-2024-05-16 22:37:02,564 - INFO - [Emily Davis, 29, Paris]
-2024-05-16 22:37:03,564 - INFO - [David Wilson, 41, Toronto]
-2024-05-16 22:37:05,564 - INFO - [Sophia Rodriguez, 25, Madrid]
-2024-05-16 22:37:06,565 - INFO - [William Thompson, 52, Berlin]
-2024-05-16 22:37:07,566 - INFO - [Olivia Martinez, 19, Mexico City]
-2024-05-16 22:37:09,566 - INFO - [James Anderson, 36, Cape Town]
-2024-05-16 22:37:11,567 - INFO - [Isabella Garcia, 28, Buenos Aires]
-2024-05-16 22:37:13,567 - INFO - [Daniel Hernandez, 43, Santiago]
-2024-05-16 22:37:14,568 - INFO - [Ava Gonzalez, 22, Sao Paulo]
-2024-05-16 22:37:17,569 - INFO - [Alexander Perez, 31, Moscow]
-2024-05-16 22:37:18,569 - INFO - Streaming complete!
+[John Doe, 32, New York]
+[Jane Smith, 27, Chicago]
+[Bob Johnson, 45, London]
+[Samantha Lee, 21, Tokyo]
+[Michael Brown, 38, Sydney]
+[Emily Davis, 29, Paris]
+[David Wilson, 41, Toronto]
+[Sophia Rodriguez, 25, Madrid]
+[William Thompson, 52, Berlin]
+[Olivia Martinez, 19, Mexico City]
+[James Anderson, 36, Cape Town]
+[Isabella Garcia, 28, Buenos Aires]
+[Daniel Hernandez, 43, Santiago]
+[Ava Gonzalez, 22, Sao Paulo]
+[Alexander Perez, 31, Moscow]
